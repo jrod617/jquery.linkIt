@@ -1,0 +1,25 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mutiny"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jrod617/jquery.linkIt/MIT_License.txt"
+        }
+    ],
+    "homepage": "https://github.com/jrod617/jquery.linkIt",
+    "docs": "https://github.com/jrod617/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
